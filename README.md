@@ -1,2 +1,2 @@
-# Bomber.Team
-Bomber.Team LUA Script
+Bomber.Team - http://www.bomber.team/
+Bigger. Better. Bomber.
